@@ -25,7 +25,7 @@
 </p>
 
 <p><img src="https://media.giphy.com/media/g01P1Z9IjHtsf5TjQm/giphy.gif?cid=ecf05e4741ge4hi1i9qcu40cvst5mlmj4md2sceygp430h5b&rid=giphy.gif&ct=s" alt="study"  width="75" height="75" /> Currently Learning</p>
-<p align="left">
+<p align="right">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
 </p>
