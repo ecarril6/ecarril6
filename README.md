@@ -4,9 +4,9 @@
 <a target="_blank" href="mailto:ecarrillo2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 
-<h1 align="center"><img src="https://media.giphy.com/media/A9dZqpVpbLsju/giphy.gif?cid=ecf05e47nu6o40rf4l1psdhhsvvmn0jghp6sif3un2wi8emi&rid=giphy.gif&ct=s" alt="cat"  width="75" height="75" /> Hey! I'm Emily. </h1>
+<h2 align="center"><img src="https://media.giphy.com/media/A9dZqpVpbLsju/giphy.gif?cid=ecf05e47nu6o40rf4l1psdhhsvvmn0jghp6sif3un2wi8emi&rid=giphy.gif&ct=s" alt="cat"  width="75" height="75" /> Hey! I'm Emily. </h2>
 
-
+First-generation college student, working towards my Bachelor’s Degree in Computer Science.Seeking a position that will provide me with growth opportunities by allowing me the chance to apply my studies to challenging projects.
  
 <p><img src="https://media.giphy.com/media/mBC1ai0DtkuDQIT5EK/giphy.gif?cid=ecf05e47g4q97tla96ohadpguheu2wvbcblunrjkd0u6g3h1&rid=giphy.gif&ct=s" alt="study"  width="75" height="75" /> Some Tools I Use</p>
 
