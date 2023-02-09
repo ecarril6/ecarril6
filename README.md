@@ -3,9 +3,10 @@
 <a target="_blank" href="https://www.linkedin.com/in/emily-carrillo-7110481b8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:ecarrillo2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
-## Hey! 👋
+
+Hey! 👋
 I'm Emily.
-<img src="https://github.com/ecarril6/ecarril6/blob/main/9375349_avatars_accounts_woman_female_person_icon.png" alt="WomanIcon"  width="25" height="25" />
+<img src="https://github.com/ecarril6/ecarril6/blob/main/9375349_avatars_accounts_woman_female_person_icon.png" alt="WomanIcon"  width="35" height="35" />
 
  
 <h2>🚀 Some Tools I Use</h2>
