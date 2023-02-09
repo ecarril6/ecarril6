@@ -5,7 +5,6 @@
 <br>
 ## Hey! 👋
 I'm Emily.
- [Linkedin](https://www.linkedin.com/in/emily-carrillo-7110481b8/) • [E-Mail](mailto:ecarrillo2018@gmail.com)
  
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
