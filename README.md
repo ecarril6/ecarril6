@@ -8,7 +8,7 @@
 
 
  
-<h2><img src="https://media.giphy.com/media/mBC1ai0DtkuDQIT5EK/giphy.gif?cid=ecf05e47g4q97tla96ohadpguheu2wvbcblunrjkd0u6g3h1&rid=giphy.gif&ct=s" alt="study"  width="75" height="75" /> Some Tools I Use</h2>
+<p><img src="https://media.giphy.com/media/mBC1ai0DtkuDQIT5EK/giphy.gif?cid=ecf05e47g4q97tla96ohadpguheu2wvbcblunrjkd0u6g3h1&rid=giphy.gif&ct=s" alt="study"  width="75" height="75" /> Some Tools I Use</p>
 - Languages
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="scala" width="25" height="25" />
@@ -31,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv"  width="25" height="25"/> 
 </p>
 
-<h2><img src="https://media.giphy.com/media/g01P1Z9IjHtsf5TjQm/giphy.gif?cid=ecf05e4741ge4hi1i9qcu40cvst5mlmj4md2sceygp430h5b&rid=giphy.gif&ct=s" alt="study"  width="75" height="75" /> Currently Learning</h2>
+<p><img src="https://media.giphy.com/media/g01P1Z9IjHtsf5TjQm/giphy.gif?cid=ecf05e4741ge4hi1i9qcu40cvst5mlmj4md2sceygp430h5b&rid=giphy.gif&ct=s" alt="study"  width="75" height="75" /> Currently Learning</p>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
