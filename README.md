@@ -9,16 +9,22 @@ Hey!
 I'm Emily.
  
 <h2>🚀 Some Tools I Use</h2>
+- Languages
 <p align="left">
-Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="scala" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="python" width="25" height="25"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25"/>
-..
+</p> 
+
+- ..
+<p align="left">
 <img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"  width="25" height="25" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode"  width="25" height="25"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva"  width="25" height="25" />
-Data
+</p>
+
+- Data
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy"  width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas"  width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  alt="tensorflow"  width="25" height="25" />
@@ -30,5 +36,4 @@ Data
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
 </p>
-## Contact
-- [email : ecarrillo2018@gmail.com]
+
