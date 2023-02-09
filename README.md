@@ -5,6 +5,8 @@
 <br>
 ## Hey! 👋
 I'm Emily.
+<img src="https://github.com/ecarril6/ecarril6/blob/main/9375349_avatars_accounts_woman_female_person_icon.png" alt="WomanIcon"  width="25" height="25" />
+
  
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
