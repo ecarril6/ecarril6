@@ -7,8 +7,10 @@
 <img src="https://media.giphy.com/media/A9dZqpVpbLsju/giphy.gif?cid=ecf05e47nu6o40rf4l1psdhhsvvmn0jghp6sif3un2wi8emi&rid=giphy.gif&ct=s" alt="cat"  width="75" height="75" />
 Hey! 
 I'm Emily.
+
+
  
-<h2>🚀 Some Tools I Use</h2>
+<h2><img src="https://media.giphy.com/media/mBC1ai0DtkuDQIT5EK/giphy.gif?cid=ecf05e47g4q97tla96ohadpguheu2wvbcblunrjkd0u6g3h1&rid=giphy.gif&ct=s" alt="study"  width="75" height="75" /> Some Tools I Use</h2>
 - Languages
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="scala" width="25" height="25" />
