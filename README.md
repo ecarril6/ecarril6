@@ -24,8 +24,8 @@ First-generation college student, working towards my Bachelor’s Degree in Comp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv"  width="35" height="35"/> 
 </p>
 
-<p align="right"><img src="https://media.giphy.com/media/g01P1Z9IjHtsf5TjQm/giphy.gif?cid=ecf05e4741ge4hi1i9qcu40cvst5mlmj4md2sceygp430h5b&rid=giphy.gif&ct=s" alt="study"  width="75" height="75" /> Currently Learning</p>
-<p align="right">
+<p ><img src="https://media.giphy.com/media/g01P1Z9IjHtsf5TjQm/giphy.gif?cid=ecf05e4741ge4hi1i9qcu40cvst5mlmj4md2sceygp430h5b&rid=giphy.gif&ct=s" alt="study"  width="75" height="75" /> Currently Learning</p>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="35" />
 </p>
