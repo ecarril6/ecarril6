@@ -4,9 +4,8 @@
 <a target="_blank" href="mailto:ecarrillo2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 
-
+<img src="https://github.com/ecarril6/ecarril6/blob/main/9375349_avatars_accounts_woman_female_person_icon.png" alt="WomanIcon"  width="75" height="75" />
 Hey! 
-<img src="https://github.com/ecarril6/ecarril6/blob/main/9375349_avatars_accounts_woman_female_person_icon.png" alt="WomanIcon"  width="50" height="50" />
 I'm Emily.
  
 <h2>🚀 Some Tools I Use</h2>
