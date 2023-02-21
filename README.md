@@ -11,7 +11,7 @@ First-generation college student, working towards my Bachelor’s Degree in Comp
 <p align="left"><img src="https://media.giphy.com/media/mBC1ai0DtkuDQIT5EK/giphy.gif?cid=ecf05e47g4q97tla96ohadpguheu2wvbcblunrjkd0u6g3h1&rid=giphy.gif&ct=s" alt="study"  width="75" height="75" /> Some Tools I Use</p>
 
 <p align="left">
-<a target="_blank" href="https://icons8.com/icon/j9waMtPTTtlM/adobe-illustrator">Adobe Illustrator</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="scala" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="python" width="35" height="35"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35"/>
@@ -31,3 +31,10 @@ First-generation college student, working towards my Bachelor’s Degree in Comp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="35" />
 </p>
 
+<a target="_blank" href="https://icons8.com/icon/4GahTFJxxDGQ/e">E</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/RUR8UDISbdA2/m">M</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/478B0OAQhdTC/i">I</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/QgTLWV9Ba5hO/l">L</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/wriPEWSue6y6/y">Y</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/UpJmIaNZwNyq/python">Python</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/j9waMtPTTtlM/adobe-illustrator">Adobe Illustrator</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
