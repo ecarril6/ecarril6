@@ -5,6 +5,8 @@
 <br>
 <h1 align="center">
 <br>
+<img src="https://media.giphy.com/media/A9dZqpVpbLsju/giphy.gif?cid=ecf05e47nu6o40rf4l1psdhhsvvmn0jghp6sif3un2wi8emi&rid=giphy.gif&ct=s" alt="cat"  width="75" height="75" />
+
 <img src="https://github.com/ecarril6/ecarril6/blob/main/images/icons8-e-64.png" alt="E"  width="75" height="75" /> 
 
 <img src="https://github.com/ecarril6/ecarril6/blob/main/images/icons8-m-64.png" alt="M"  width="75" height="75" /> 
