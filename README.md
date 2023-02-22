@@ -31,16 +31,4 @@ First-generation college student, working towards my Bachelor’s Degree in Comp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="35" />
 </p>
 
-<a target="_blank" href="https://icons8.com/icon/IrfgoUvvpLsG/h">H</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/Yjw9IL01yGZo/e">E</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/AoPnUCNcmVzY/y">Y</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
-<a target="_blank" href="https://icons8.com/icon/opS6LoY6b8sG/i">I</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/Di3y0cedwGcL/m">M</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a target="_blank" href="https://icons8.com/icon/fmDMBaKC8Xvk/l">L</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-
-
-<a target="_blank" href="https://icons8.com/icon/UpJmIaNZwNyq/python">Python</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/j9waMtPTTtlM/adobe-illustrator">Adobe Illustrator</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
