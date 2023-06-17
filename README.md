@@ -8,27 +8,5 @@
 
 Recent graduate with a Bachelor’s Degree in Computer Science with a minor in Mathematics.Seeking a position that will provide me with growth opportunities by allowing me the chance to apply my studies to challenging projects.
  
-<p align="left"><img src="https://media.giphy.com/media/mBC1ai0DtkuDQIT5EK/giphy.gif?cid=ecf05e47g4q97tla96ohadpguheu2wvbcblunrjkd0u6g3h1&rid=giphy.gif&ct=s" alt="study"  width="75" height="75" /> Some Tools I Use</p>
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="scala" width="35" height="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="python" width="35" height="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35"/>
-<img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"  width="35" height="35" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VScode"  width="35" height="35"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva"  width="35" height="35" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy"  width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas"  width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  alt="tensorflow"  width="35" height="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv"  width="35" height="35"/> 
-</p>
-
-<p ><img src="https://media.giphy.com/media/g01P1Z9IjHtsf5TjQm/giphy.gif?cid=ecf05e4741ge4hi1i9qcu40cvst5mlmj4md2sceygp430h5b&rid=giphy.gif&ct=s" alt="study"  width="75" height="75" /> Currently Learning</p>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="35" />
-</p>
 
 
